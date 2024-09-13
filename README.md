@@ -40,7 +40,7 @@ Run the game by executing:
 
 python3 chess_gui.py
 
-https://github.com/user-attachments/assets/cf5de314-33e8-4a7a-874c-2207ea41d1f4
+https://github.com/user-attachments/assets/0bfcd29e-8886-4f09-b6f2-9eda997cfc56
 
 
 
@@ -62,15 +62,22 @@ https://github.com/user-attachments/assets/cf5de314-33e8-4a7a-874c-2207ea41d1f4
 ### Castling
 Kingside Castling:
 
-https://github.com/user-attachments/assets/0e176d71-2491-444e-a267-42aff167a2a4
+
+
+https://github.com/user-attachments/assets/cc0efcfb-f8a0-4285-9030-4a372fbcce43
+
+
 
 ### En Passant
 
-https://github.com/user-attachments/assets/7d1e3e56-8d9b-4984-b893-4baec095441a
+https://github.com/user-attachments/assets/37724750-2d5f-496e-a38a-509c0deb1da4
+
 
 ### Pawn Promotion
 
-https://github.com/user-attachments/assets/784addf1-5e73-44fd-b25d-0c9135070b8d
+https://github.com/user-attachments/assets/198cbde7-ca47-497a-af70-b5da6b324962
+
+
 
 ## AI Opponent
 
